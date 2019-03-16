@@ -8,4 +8,14 @@ This is a demo for Socket, but not `WinSock`, it's just **a program that achieve
 
 ## How to Use
 
-It's very easy to use it. 
+It's very easy to use it. Here are the steps:
+
+```centos
+cd /The/Path/That/You/Have/Download
+make
+./server
+./client
+```
+## Have Some Suggestion?
+
+Please write the suggestion in `Issues` or make `Pull request` ! **Thanks for your suggestion, I'll work harder**!
