@@ -1,30 +1,30 @@
 # The Materials Of C++
 This repository is for C++ beginners.
 
-## How to use These Code?
-If you're a beginner, you may met these **problem**:
+## How to use These Codes?
+If you're a beginner, you may met these **problems**:
 
 - Don't have `Appropriate tutorials`;
 
 - Don't have `Appropriate editor`;
 
-- Wrong Code
+- Wrong Codes
 
 - And more....
 
-In fact, there're many problems you **must slove**!
+In fact, there're many problems you **must solve**!
 
-If you're lost in the C++ Forest, you can study these code to **know how to getting started**!
+If you're lost in the C++ Forest, you can study these codes to **know how to get started**!
 
-> You can use *Atom*  to open these code, remember, **C++'s format is .cpp**!
+> You can use *Atom*  to open these codes, remember, **C++'s format is .cpp**!
 
-And if you want to run these code, you can download plugin *gcc-make-run* in Install.
+And if you want to run these codes, you can download plugin *gcc-make-run* in `Install`.
 
 ![gcc-make-run](https://i.loli.net/2019/03/02/5c79dbede7a45.png)
 
-Wait the plugin download finished, open one .cpp/.c/.h file, and press <kbd>F6</kbd> to make and run it（**Just for C++, gcc and Makefile**).
+Wait the plugin download finished, open one .cpp file, and press <kbd>F6</kbd> to make and run it（**Just for C++, gcc and Makefile**).
 
-There's a notice: **If you want coding, Linux is best**, you can use Centos 7 or Ubuntu something.
+There's a notice: **If you want to code, Linux is the best**, you can use Centos 7 or Ubuntu something.
 
 ![Run the code](https://i.loli.net/2019/03/02/5c79dd4ad6d1e.png)
 
