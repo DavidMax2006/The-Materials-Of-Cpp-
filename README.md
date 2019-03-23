@@ -1,7 +1,7 @@
 # The Materials Of C++
 This repository is for C++ beginners.
 
-## How to use These Codes?
+## How to use These Codes
 If you're a beginner, you may met these **problems**:
 
 - Don't have `Appropriate tutorials`;
