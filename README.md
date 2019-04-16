@@ -41,3 +41,5 @@ This plugin can quickly open a file or create a new file and rename, you can pre
 ![Open a File](https://i.loli.net/2019/03/02/5c7a1ac2a304f.png)
 
 There're **lots of good plugins** in *Atom* ! You can try it!
+
+<a href="https://www.buymeacoffee.com/davidmax" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
