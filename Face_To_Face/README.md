@@ -11,7 +11,7 @@ This is a demo for Socket, but not `WinSock`, it's just **a program that achieve
 It's very easy to use it. Here are the steps:
 
 ```centos
-cd /The/Path/That/You/Have/Download
+cd /The/Path/That/You/Have/Downloaded
 make
 ./server
 ./client
